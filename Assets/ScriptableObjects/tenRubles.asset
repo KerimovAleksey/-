@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee6151d0980c12f408c23738ac014f16, type: 3}
   m_Name: tenRubles
   m_EditorClassIdentifier: 
-  _sprite: {fileID: 21300000, guid: deb45c2ec7603db4bbd5036b887411d7, type: 3}
+  _sprite: {fileID: 21300000, guid: 4928c3eab95d13f48bb4fbc1e958e7dc, type: 3}
   _scale: {x: 0.11, y: 0.11, z: 1}
   _name: 10

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee6151d0980c12f408c23738ac014f16, type: 3}
   m_Name: fiftyKopecks
   m_EditorClassIdentifier: 
-  _sprite: {fileID: 21300000, guid: 7b98a1e081f9d5846834dcc16149a91b, type: 3}
+  _sprite: {fileID: 21300000, guid: b69f5bf9e4c1cd04cb3052fe6d65e82e, type: 3}
   _scale: {x: 0.08, y: 0.08, z: 1}
   _name: 0.5

@@ -9,7 +9,7 @@ public class CoinsCountChoiceController : MonoBehaviour
 
 	private void Awake()
 	{
-		_slider.value = PlayerPrefs.GetInt("CoinsCount", 5);
+		_slider.value = PlayerPrefs.GetInt("CoinsCount", 4);
 	}
 
 	public void SetCountOfCoins()

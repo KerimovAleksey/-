@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee6151d0980c12f408c23738ac014f16, type: 3}
   m_Name: fiveRubles
   m_EditorClassIdentifier: 
-  _sprite: {fileID: 21300000, guid: 0462812b1e3debb44a3dfe9534e7c4b2, type: 3}
+  _sprite: {fileID: 21300000, guid: 08f74c38c2b2fa84fa68db1ff6508e56, type: 3}
   _scale: {x: 0.2, y: 0.2, z: 1}
   _name: 5

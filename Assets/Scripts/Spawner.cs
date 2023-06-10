@@ -17,7 +17,7 @@ public class Spawner : MonoBehaviour
 
     public void StartSpawning()
     {
-        _coinsWaveCount = PlayerPrefs.GetInt("CoinsCount");
+        _coinsWaveCount = PlayerPrefs.GetInt("CoinsCount", 4);
         _deadZone.SetTargetCoinsCount(_coinsWaveCount);
         StartCoroutine(SpawnCoins());
     }
